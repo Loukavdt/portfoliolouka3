@@ -19,4 +19,4 @@ layoutpage: layout3
 description: ""
 promoted: "0"
 ---
-**For the second assignment in Johan’s studio, we are required to collect data about ourselves for a week and visualize it in two ways: one visualization focused on the aspect of time and another focused on the aspect of location. We first create a manual visualization by developing various sketches based on the collected data. Afterward, we digitize these visualizations using Adobe Illustrator and present them as a poster in InDesign.**
+**For the second assignment in Johan’s studio, we are required to collect data about ourselves for a week and visualize it in two ways: one visualization focused on the aspect of time and another focused on the aspect of location. We first create a manual visualization by developing various sketches based on the collected data. Afterward, we digitize these visualizations using Adobe Illustrator and present them as a poster in InDesign.** 

@@ -64,4 +64,11 @@ const direction = ref<DrawerProps['direction']>('ltr')
 .mt-auto {
   margin-top: auto;
 }
+
+.drawer{
+  font-family: ;
+  background-color: ;
+  font-size: ;
+  line-height: ;
+}
 </style>

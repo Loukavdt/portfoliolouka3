@@ -3,7 +3,7 @@ layout: default
 title: "Maquette regatta toren "
 subtitle: "Interior design "
 tags:
-  - Tag 1
+  - Interior Design
 imagegallery:
   showgallery: true
   carouselgrid: grid

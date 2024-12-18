@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Riemstoel
+title: Webbed chair
 subtitle: "Interior design "
 tags:
-  - Tag 1
+  - Interior Design
 imagegallery:
   showgallery: true
   carouselgrid: grid
@@ -13,11 +13,17 @@ imagegallery:
     - /img/stoel_4.jpg
     - /img/stoel_5.jpg
     - /img/stoel_6.jpg
-thumbnail: /img/stoel_5.jpg
+thumbnail: /img/stoel_2.jpg
 date: 2024-11-28T15:39:53.553Z
 numbernavigation: 5
 layoutpage: layout3
 description: ""
 promoted: "0"
 ---
-**For an assignment in collaboration with the company Luxor in Maldegem, the challenge was to design a chair. A basic chair frame was provided, and the task was to modify it to make it functional and comfortable to sit on. Leather belts were chosen as the primary material, woven into a sturdy pattern and attached to the frame. This weaving not only ensured a stable seat but also gave the chair a unique and warm aesthetic. Additionally, the chair was crafted sustainably by using second-hand belts and a repurposed frame.**
+*During my studies as an Interior Designer, I worked on an assignment in collaboration with Luxor, a company based in Maldegem, where the task was to design a chair. This project provided me with an opportunity to explore both functionality and aesthetics in furniture design, focusing on creating a piece that was both practical and visually appealing.*
+
+\
+For the assignment, a basic chair frame was provided, and my challenge was to modify it to create a functional and comfortable seating solution. I chose leather belts as the primary material, weaving them into a sturdy pattern and attaching them to the frame. The weaving technique not only ensured a stable seat but also added a unique and warm aesthetic to the chair. In addition, I focused on making the chair sustainably by using second-hand belts and a repurposed frame, contributing to the overall environmental impact of the design.
+
+\
+This project was a valuable experience in furniture design, allowing me to balance creativity with practical considerations. By focusing on functionality, aesthetics, and sustainability, I was able to create a chair that was both comfortable to use and visually distinctive. The assignment helped me refine my design process and consider the broader implications of materials and production methods.

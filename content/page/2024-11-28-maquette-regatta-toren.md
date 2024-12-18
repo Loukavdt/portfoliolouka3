@@ -20,4 +20,10 @@ layoutpage: layout3
 description: ""
 promoted: "0"
 ---
-**This model was created for the Design course, focusing on the Regatta Tower at the Watersportbaan in Ghent. The model was entirely hand-cut using materials such as wood, concrete, plexiglass, and metal. The tower was designed to include sleeping accommodations for fishermen staying overnight, with an open kitchen on the ground floor. This kitchen serves as a gathering spot where fishermen can prepare and share their catch. The location and design provide an ideal base for fishermen at the Watersportbaan.**
+*Designing spaces that respond to specific user needs is one of the most fulfilling aspects of interior design. During my studies, I had the chance to explore this through a hands-on project for the Design course, where I focused on creating a scale model of the Regatta Tower at the Watersportbaan in Ghent. This project challenged me to merge creativity with functionality, resulting in a design tailored to its unique context.*
+
+\
+The scale model of the Regatta Tower was entirely hand-cut, using a variety of materials such as wood, concrete, plexiglass, and metal. Every element of the design was carefully considered to reflect the tower’s purpose: providing a functional yet welcoming space for fishermen. The sleeping accommodations offered overnight comfort, while the open kitchen on the ground floor served as a central hub. This kitchen was designed as a gathering spot where fishermen could prepare and share their catch, fostering a sense of connection and community. The location of the tower and its thoughtful design made it an ideal base for those visiting the Watersportbaan.
+
+\
+This project resulted in a detailed and carefully crafted model that captured both the aesthetic and practical aspects of the Regatta Tower. It was a valuable learning experience that taught me how to create spaces that serve specific user groups while maintaining a focus on design quality. By balancing technical precision with a user-centered approach, I was able to deliver a piece that reflects my growing skills and passion for thoughtful interior design.

@@ -19,4 +19,10 @@ layoutpage: layout3
 description: ""
 promoted: "0"
 ---
-**For the second assignment in Johan’s studio, we are required to collect data about ourselves for a week and visualize it in two ways: one visualization focused on the aspect of time and another focused on the aspect of location. We first create a manual visualization by developing various sketches based on the collected data. Afterward, we digitize these visualizations using Adobe Illustrator and present them as a poster in InDesign.** 
+*As part of my graphic design studies, I have worked on various assignments that helped me develop my skills further. One of the projects I completed was focused on data collection and visualization, where I gathered and presented personal data. This task gave me the opportunity to explore how design can be used to effectively communicate information.*
+
+\
+For this assignment, I collected data about myself over the course of a week, focusing on two aspects: time and location. The goal was to create two separate visualizations—one focusing on the temporal data and the other on the location data. I began the process by creating manual visualizations, sketching out different ideas to explore the best ways to present the data. Once I had refined the concepts, I moved on to digitizing the visualizations using Adobe Illustrator, aiming for precision and a professional finish. Finally, I combined the designs into a poster layout using Adobe InDesign, creating a clear and cohesive presentation. Throughout the process, I was able to experiment with various techniques and tools, while applying principles of design such as composition and hierarchy.
+
+\
+This assignment was a good opportunity to improve my skills in data visualization. It helped me learn how to transform data into clear and engaging visuals while maintaining a focus on design principles. Completing the project enhanced my technical skills and allowed me to explore how graphic design can be used to communicate complex information effectively.

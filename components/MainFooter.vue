@@ -1,5 +1,5 @@
 <template>
-    <div class="w-full bg-[#e4a8c4] mt-16 z-100">
+    <div class="w-full bg-[#000] mt-16 z-100">
       <div class="p-16 flex justify-evenly flex-wrap gap-10">
         <!-- Portfolio Section -->
         <div class="footer-item text-center">

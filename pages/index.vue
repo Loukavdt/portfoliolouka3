@@ -101,7 +101,7 @@ onMounted(async () => {
       <div class="relative h-full">
         <!-- Background image -->
         <div
-          class="absolute inset-0 bg-cover bg-center"
+          class="fixed inset-0 bg-cover bg-center"
           :style="{ backgroundImage: homepageSettings?.thumbnail ? `url(${homepageSettings.thumbnail})` : '' }"
         ></div>
 
@@ -114,7 +114,7 @@ onMounted(async () => {
         </div>
 
         <!-- Info section with typewriter effect -->
-        <div class="info flex flex-col items-center justify-center h-screen relative">
+        <div class="info flex flex-col items-center justify-center h-screen relative fixed">
           <div class="container text-left p-1 lg:p-20">
             <div
               class="container opacity-80 animate-fade animate-once animate-delay-[100ms] text-white"
@@ -143,6 +143,7 @@ onMounted(async () => {
         </div>
       </div>
     </div>
+    <MainFooter />
   </div>
 </template>
 

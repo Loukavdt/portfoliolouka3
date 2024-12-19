@@ -101,12 +101,11 @@ onMounted(async () => {
       <div class="relative h-full">
         <!-- Background image -->
         <div
-          class="fixed inset-0 bg-cover bg-center"
+          class="fixed inset-0 bg-cover bg-center -z-50"
           :style="{ backgroundImage: homepageSettings?.thumbnail ? `url(${homepageSettings.thumbnail})` : '' }"
         ></div>
 
         <!-- Black overlay for opacity -->
-        <div class="absolute inset-0 bg-black opacity-30"></div>
 
         <!-- Content above the background -->
         <div class="relative z-10 pr-5">
@@ -114,10 +113,10 @@ onMounted(async () => {
         </div>
 
         <!-- Info section with typewriter effect -->
-        <div class="info flex flex-col items-center justify-center h-screen relative fixed">
+        <div class="info flex flex-col items-center justify-center h-screen relative">
           <div class="container text-left p-1 lg:p-20">
             <div
-              class="container opacity-80 animate-fade animate-once animate-delay-[100ms] text-white"
+              class="container animate-fade animate-once animate-delay-[100ms] text-white"
             >
               <!-- Title -->
               <div class="relative">
@@ -144,6 +143,7 @@ onMounted(async () => {
       </div>
     </div>
     <MainFooter />
+    
   </div>
 </template>
 

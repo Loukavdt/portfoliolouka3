@@ -13,7 +13,7 @@ imagegallery:
     - /img/stoel_4.jpg
     - /img/stoel_5.jpg
     - /img/stoel_6.jpg
-thumbnail: /img/stoel_2.jpg
+thumbnail: /img/pexels-alfomedeiros-12918477.jpg
 date: 2024-11-28T15:39:53.553Z
 numbernavigation: 5
 layoutpage: layout3

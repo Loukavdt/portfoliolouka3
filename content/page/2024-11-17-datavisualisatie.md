@@ -12,7 +12,7 @@ imagegallery:
     - /img/data_2.png
     - /img/data_1.png
   gallerytitle: ""
-thumbnail: /img/datavisualisatie.png
+thumbnail: /img/pexels-alfomedeiros-12918477.jpg
 date: 2024-11-17T14:29:57.955Z
 numbernavigation: 3
 layoutpage: layout3

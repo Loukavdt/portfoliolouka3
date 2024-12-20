@@ -25,8 +25,8 @@
       >
         <div class="container p-4">
           <div>
-            <h1 class="text-white text-4xl md:text-6xl lg:text-8xl font-bold">{{ data.title }}</h1>
-            <h1 v-if="data.subtitle" class="text-white opacity-80 pt-3 text-xl md:text-2xl lg:text-3xl font-bold pb-10">{{ data.subtitle }}</h1>
+            <h1 class="text-white text-4xl md:text-6xl lg:text-6xl font-bold">{{ data.title }}</h1>
+            <h1 v-if="data.subtitle" class="text-white opacity-80 pt-3 text-xl md:text-2xl lg:text-1xl font-bold pb-10">{{ data.subtitle }}</h1>
           </div>
           
           <div>

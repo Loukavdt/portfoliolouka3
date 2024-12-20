@@ -16,14 +16,14 @@ body {
     }
     /* */
     .dark-mode body {
-    background-color: #000000;
+    background-color: #0b0803;
     color: #ffffff;
     }
     .dark-mode .backcolor{
         background-color: #000000;
     }
     .dark-mode .el-drawer {
-        background-color: rgba(0, 0, 0, 0.98);
+        background-color: #0b0803;
       }
     /* */
     .gray-mode body {

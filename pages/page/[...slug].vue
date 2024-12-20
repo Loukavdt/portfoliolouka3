@@ -1,5 +1,5 @@
 <template>
-  <div class="mb-20 animate-fade animate-once animate-delay-[500ms]">
+  <div class=" animate-fade animate-once animate-delay-[500ms]">
     <ContentQuery :path="$route.path" find="one" v-slot="{ data }">
       <component
         :is="getLayoutComponent( data.layoutpage )"

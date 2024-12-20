@@ -1,5 +1,6 @@
 
 <template>
+  <div>
   <div class="layout2">
     <ClientOnly>
     <div class="relative max-h-screen overflow-hidden z-1">
@@ -76,6 +77,7 @@
           </li>
         </article>
       </div>
+
     </div>
 
     <!-- Loading the ShareButtons component -->
@@ -93,6 +95,8 @@
     <Meta property="og:type" content="article" />
   </ClientOnly>
   </div>
+  <MainFooter />
+</div>
 
 </template>
 

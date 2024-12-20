@@ -1,4 +1,5 @@
 <template>
+  <div>
     <div class="layout1">
     <ClientOnly>
       <div class="pr-5 z-100">
@@ -41,6 +42,8 @@
     
     </ClientOnly>
     </div>
+    <MainFooter />
+  </div>
   </template>
   
   <script setup>

@@ -76,6 +76,7 @@
           </li>
         </article>
       </div>
+      <MainFooter />
     </div>
 
     <!-- Loading the ShareButtons component -->

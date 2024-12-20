@@ -13,7 +13,7 @@
           <div class="flex justify-center space-x-4 mt-4">
             <!-- Email Link -->
             <NuxtLink
-              to="mailto:loukavdt2002@gmail.com?subject=Hello%20Aachal&body=This%20is%20a%20test%20email!"
+              to="mailto:loukavdt2002@gmail.com?subject=Hello%20Louka&body=This%20is%20a%20test%20email!"
               class="border border-black hover:border-white hover:text-white transition-all duration-100 rounded-full px-4 py-2 text-sm"
             >
               Email

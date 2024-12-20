@@ -4,15 +4,15 @@ body {
     color: rgba(0,0,0,0.8);
     }
     .light-mode body {
-    background-color: #ffffff;
-    color: #000000;
+    background-color: #1e180d;
+    color: #ffffff;
     }
 
     .light-mode .footer-item{
         color: #ebebeb;
     }
-    .el-drawer {
-        background-color: rgba(255, 255, 255, 0.99);
+    .light-mode .el-drawer {
+        background-color: #1e180d;
     }
     /* */
     .dark-mode body {
@@ -27,7 +27,7 @@ body {
       }
     /* */
     .gray-mode body {
-    background-color: #484848f2;
+    background-color: #14100a;
     color: #ffffffef;
     }
     .gray-mode .backcolor{
@@ -35,16 +35,12 @@ body {
 
         color: #FFFFFF;
     }
-    /*
+
     .gray-mode .el-drawer {
-        background-color: #183ea5fa;
+        background-color: #14100a;
         color: #FFFFFF;
     }
-    */
-    .gray-mode .el-drawer {
-        background-color: #484848f2;
-        color: #ebebeb;
-    }
+   
     
     /* Active link */
     .router-link-active {

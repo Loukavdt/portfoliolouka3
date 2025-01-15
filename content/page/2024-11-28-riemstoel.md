@@ -9,12 +9,11 @@ imagegallery:
   carouselgrid: grid
   galleryImages:
     - /img/stoel_2.jpg
-    - /img/stoel_3.jpg
     - /img/stoel_4.jpg
     - /img/stoel_5.jpg
     - /img/stoel_6.jpg
 thumbnail: /img/pexels-steve-29612111.jpg
-date: 2024-11-28T15:39:53.553Z
+date: 2025-01-15T15:59:07.742Z
 numbernavigation: 5
 layoutpage: layout3
 description: ""

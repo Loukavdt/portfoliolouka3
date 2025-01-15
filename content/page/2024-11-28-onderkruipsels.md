@@ -8,11 +8,12 @@ imagegallery:
   showgallery: true
   carouselgrid: grid
   galleryImages:
-    - /img/onderkruipsels_1.png
-    - /img/onderkruipsels_2.png
-    - /img/onderkruipsels_3.png
+    - /img/schermafbeelding-2025-01-15-163833.png
+    - /img/schermafbeelding-2025-01-15-163807.png
+    - /img/schermafbeelding-2025-01-15-163651.png
+    - /img/schermafbeelding-2025-01-15-163743.png
 thumbnail: /img/pexels-steve-29612111.jpg
-date: 2024-11-28T15:15:05.102Z
+date: 2025-01-15T15:58:52.470Z
 numbernavigation: 4
 layoutpage: layout3
 description: ""

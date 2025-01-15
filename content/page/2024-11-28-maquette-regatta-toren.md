@@ -14,7 +14,7 @@ imagegallery:
     - /img/regatta_4.jpg
     - /img/regatta_5.jpg
 thumbnail: /img/pexels-steve-29612111.jpg
-date: 2024-11-28T14:39:34.577Z
+date: 2025-01-15T15:58:43.350Z
 numbernavigation: 2
 layoutpage: layout3
 description: ""

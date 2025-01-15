@@ -6,14 +6,14 @@ tags:
   - "Media & Information Design "
 imagegallery:
   showgallery: true
-  carouselgrid: grid
+  carouselgrid: carousel
   galleryImages:
     - /img/typografie_1.png
     - /img/typografie_4.png
     - /img/typografie_3.png
     - /img/typografie_2.png
 thumbnail: /img/pexels-steve-29612111.jpg
-date: 2024-11-28T16:04:13.633Z
+date: 2025-01-15T15:59:23.822Z
 numbernavigation: 7
 layoutpage: layout3
 description: ""

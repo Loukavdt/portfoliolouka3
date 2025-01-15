@@ -6,13 +6,13 @@ tags:
   - "Media & Information Design "
 imagegallery:
   showgallery: true
-  carouselgrid: grid
+  carouselgrid: carousel
   galleryImages:
     - /img/toseewithnakedeyes_1.png
     - /img/toseewitjnakedeyes_2.png
     - /img/toseewithnakedeyes_3.png
 thumbnail: /img/pexels-steve-29612111.jpg
-date: 2024-11-28T15:57:50.747Z
+date: 2025-01-15T15:59:15.430Z
 numbernavigation: 6
 layoutpage: layout3
 description: ""

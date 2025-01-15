@@ -13,7 +13,7 @@ imagegallery:
     - /img/data_1.png
   gallerytitle: ""
 thumbnail: /img/pexels-steve-29612111.jpg
-date: 2024-11-17T14:29:57.955Z
+date: 2025-01-15T15:58:21.230Z
 numbernavigation: 3
 layoutpage: layout3
 description: ""

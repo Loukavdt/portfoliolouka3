@@ -11,7 +11,7 @@ imagegallery:
     - /img/onderkruipsels_1.png
     - /img/onderkruipsels_2.png
     - /img/onderkruipsels_3.png
-thumbnail: /img/pexels-alfomedeiros-12918477.jpg
+thumbnail: /img/pexels-steve-29612111.jpg
 date: 2024-11-28T15:15:05.102Z
 numbernavigation: 4
 layoutpage: layout3

@@ -13,7 +13,7 @@ imagegallery:
     - /img/regatta_3.jpg
     - /img/regatta_4.jpg
     - /img/regatta_5.jpg
-thumbnail: /img/pexels-alfomedeiros-12918477.jpg
+thumbnail: /img/pexels-steve-29612111.jpg
 date: 2024-11-28T14:39:34.577Z
 numbernavigation: 2
 layoutpage: layout3

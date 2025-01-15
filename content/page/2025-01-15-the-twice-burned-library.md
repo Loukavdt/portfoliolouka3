@@ -16,7 +16,7 @@ imagegallery:
     - /img/schermafbeelding-2025-01-15-120557.png
     - /img/schermafbeelding-2025-01-15-121810.png
     - /img/schermafbeelding-2025-01-15-120616.png
-thumbnail: /img/pexels-alfomedeiros-12918477.jpg
+thumbnail: /img/pexels-steve-29612111.jpg
 date: 2025-01-15T10:58:16.295Z
 layoutpage: layout3
 description: ""

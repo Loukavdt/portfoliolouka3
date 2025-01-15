@@ -12,7 +12,7 @@ imagegallery:
     - /img/typografie_4.png
     - /img/typografie_3.png
     - /img/typografie_2.png
-thumbnail: /img/pexels-alfomedeiros-12918477.jpg
+thumbnail: /img/pexels-steve-29612111.jpg
 date: 2024-11-28T16:04:13.633Z
 numbernavigation: 7
 layoutpage: layout3

@@ -3,7 +3,7 @@ layout: default
 title: Datavisualisatie
 subtitle: "Media & Information Design "
 tags:
-  - Tag 1
+  - "Media & Information Design "
 imagegallery:
   showgallery: true
   carouselgrid: grid

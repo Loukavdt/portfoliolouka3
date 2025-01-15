@@ -4,7 +4,7 @@ body {
     color: rgba(0,0,0,0.8);
     }
     .light-mode body {
-    background-color: #1e180d;
+    background-color: #be390d;
     color: #ffffff;
     }
 
@@ -12,22 +12,22 @@ body {
         color: #ebebeb;
     }
     .light-mode .el-drawer {
-        background-color: #1e180d;
+        background-color: #be390d;
     }
     /* */
     .dark-mode body {
-    background-color: #0b0803;
+    background-color: #4e2358;
     color: #ffffff;
     }
     .dark-mode .backcolor{
         background-color: #000000;
     }
     .dark-mode .el-drawer {
-        background-color: #0b0803;
+        background-color: #4e2358;
       }
     /* */
     .gray-mode body {
-    background-color: #14100a;
+    background-color: #65658d;
     color: #ffffffef;
     }
     .gray-mode .backcolor{
@@ -37,7 +37,7 @@ body {
     }
 
     .gray-mode .el-drawer {
-        background-color: #14100a;
+        background-color: #65658d;
         color: #FFFFFF;
     }
    

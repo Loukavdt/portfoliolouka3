@@ -5,8 +5,17 @@ subtitle: Media & Information Design
 tags:
   - "Media & Information Design "
 imagegallery:
-  showgallery: false
-  carouselgrid: carousel
+  showgallery: true
+  carouselgrid: grid
+  galleryImages:
+    - /img/schermafbeelding-2025-01-15-120437.png
+    - /img/schermafbeelding-2025-01-15-120451.png
+    - /img/schermafbeelding-2025-01-15-120504.png
+    - /img/schermafbeelding-2025-01-15-120523.png
+    - /img/schermafbeelding-2025-01-15-120538.png
+    - /img/schermafbeelding-2025-01-15-120557.png
+    - /img/schermafbeelding-2025-01-15-121810.png
+    - /img/schermafbeelding-2025-01-15-120616.png
 thumbnail: /img/pexels-alfomedeiros-12918477.jpg
 date: 2025-01-15T10:58:16.295Z
 layoutpage: layout3

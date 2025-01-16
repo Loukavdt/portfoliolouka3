@@ -4,7 +4,7 @@ body {
     color: rgba(0,0,0,0.8);
     }
     .light-mode body {
-    background-color: #96071f;
+    background-color: #9d2811;
     color: #ffffff;
     }
 
@@ -12,18 +12,18 @@ body {
         color: #ebebeb;
     }
     .light-mode .el-drawer {
-        background-color: #96071f;
+        background-color: #9d2811;
     }
     /* */
     .dark-mode body {
-    background-color: #4e2358;
+    background-color: #431e4b;
     color: #ffffff;
     }
     .dark-mode .backcolor{
         background-color: #000000;
     }
     .dark-mode .el-drawer {
-        background-color: #4e2358;
+        background-color: #431e4b;
       }
     /* */
     .gray-mode body {

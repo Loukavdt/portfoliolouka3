@@ -6,7 +6,7 @@ tags:
   - "Media & Information Design "
 imagegallery:
   showgallery: true
-  carouselgrid: grid
+  carouselgrid: carousel
   galleryImages:
     - /img/data_3.png
     - /img/data_2.png

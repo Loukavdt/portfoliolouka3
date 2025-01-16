@@ -4,7 +4,7 @@ body {
     color: rgba(0,0,0,0.8);
     }
     .light-mode body {
-    background-color: #be390d;
+    background-color: #96071f;
     color: #ffffff;
     }
 
@@ -12,7 +12,7 @@ body {
         color: #ebebeb;
     }
     .light-mode .el-drawer {
-        background-color: #be390d;
+        background-color: #96071f;
     }
     /* */
     .dark-mode body {
